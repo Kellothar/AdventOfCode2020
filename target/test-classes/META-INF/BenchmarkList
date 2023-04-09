@@ -1,4 +1,0 @@
-JMH S 27 benchmark.Day1BenchmarkTest S 59 benchmark.jmh_generated.Day1BenchmarkTest_day1part1_jmhTest S 9 day1part1 S 10 Throughput I 1 1 A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 27 benchmark.Day1BenchmarkTest S 60 benchmark.jmh_generated.Day1BenchmarkTest_day1part1__jmhTest S 10 day1part1_ S 10 Throughput I 1 1 A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 27 benchmark.Day1BenchmarkTest S 59 benchmark.jmh_generated.Day1BenchmarkTest_day1part2_jmhTest S 9 day1part2 S 10 Throughput I 1 1 A 1 1 1 E E E E E E E E E E E E E E E E E 
-JMH S 27 benchmark.Day1BenchmarkTest S 60 benchmark.jmh_generated.Day1BenchmarkTest_day1part2__jmhTest S 10 day1part2_ S 10 Throughput I 1 1 A 1 1 1 E E E E E E E E E E E E E E E E E 
